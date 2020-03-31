@@ -1,0 +1,126 @@
+.home{
+    padding-bottom:10vh;
+}
+
+
+.home .one{
+    padding:7.5vh 5vw;
+    text-align:center;
+    background-image:url('../../images/home-one.jpg');
+}
+.home .one .text h1, .home .one .text p{
+    text-align:left;
+}.home .one button{
+    width:100%;
+    font-size:4vw;
+}
+.home .one .text{
+    padding:4vh 0;
+}
+.home .one .search{
+    border-radius:50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:1.5vh 5vw;
+    display:flex;
+    align-items:stretch;
+    background:#fff;
+}
+.home .one .search .icon-container{
+    flex-grow:.5;
+}
+.home .one .search .search-container{
+    flex-grow:10;
+}
+.home .one .search .icons{
+    fill:rgb(5, 112, 128);
+    width:5vw;
+}
+.home .one .search input{
+    border:none;
+    color:#fff;
+    outline:none;
+    color:#000;
+    width:100%;
+}
+.home .one button{
+    padding:2.5vh 0;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    background:rgb(5, 112, 128);
+    color:#fff;
+}
+
+
+.home .two{
+    padding:5vh 5vw;
+    text-align:center;
+}
+
+.home .two .title{
+    display:flex;
+    align-items:stretch;
+}
+.home .two .title .main{
+    flex-grow:8;
+    text-align:left;
+    font-size:7.5vw;
+    font-weight:bold;
+}
+.home .two .title .sub{
+    padding-top:1.5vh;
+    flex-grow:1;
+    text-align:right;
+}
+.home .two .content{
+    display:flex;
+    flex-wrap:wrap;
+    padding-top:3vh;
+}
+.home .two .content .column{
+    flex:33.33%
+}
+.home .two .content .column .books{
+    width:90%;
+    margin-bottom:1vh;
+    padding:0;
+}
+
+
+.home .three{
+    padding:5vh 5vw;
+    text-align:center;
+}
+
+.home .three .title{
+    display:flex;
+    align-items:stretch;
+}
+.home .three .title .main{
+    flex-grow:8;
+    text-align:left;
+    font-size:7.5vw;
+    font-weight:bold;
+}
+.home .three .title .sub{
+    padding-top:1.5vh;
+    flex-grow:1;
+    text-align:right;
+}
+.home .three .content{
+    display:flex;
+    flex-wrap:wrap;
+    padding-top:3vh;
+    text-align:center;
+}
+.home .three .content .column{
+    flex:50%;
+    max-width:50%;
+}
+.home .three .content .column .subject{
+    display:inline-block;
+    width:90%;
+    margin:1vh 0;
+    border:1px solid rgb(199, 199, 199);
+    padding:2vh 0%;
+}

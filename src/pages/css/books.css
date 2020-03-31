@@ -1,0 +1,118 @@
+.books{
+    padding-bottom:10vh;
+}
+
+
+.books .content{
+    padding:5vh 5vw;
+    text-align:center;
+}
+.books .content .text h1, .books .content .text p{
+    text-align:left;
+}.books .content button{
+    width:100%;
+    font-size:4vw;
+}
+.books .content .text{
+    padding:4vh 0;
+}
+.books .content .search{
+    border-radius:50px;
+    background:rgb(231, 231, 231);
+    padding:1.5vh 5vw;
+    display:flex;
+    align-items:stretch;
+    margin-bottom:6vh;
+}
+.books .content .search .icon-container{
+    flex-grow:1;
+}
+.books .content .search .search-container{
+    flex-grow:3;
+}
+.books .content .search .icons{
+    fill:rgb(5, 112, 128);
+    width:5vw;
+}
+.books .content .search input{
+    border:none;
+    background:none;
+    outline:none;
+    color:#000;
+    width:100%;
+}
+.books .content .title{
+    display:flex;
+    align-items:stretch;
+    margin:3vh 0;
+}
+.books .content .title .main{
+    flex-grow:8;
+    text-align:left;
+    font-size:7.5vw;
+    font-weight:bold;
+}
+.books .content .title .sub{
+    padding-top:1.5vh;
+    flex-grow:1;
+    text-align:right;
+}
+
+.books .content .list{
+    display:flex;
+    flex-wrap:wrap;
+    padding-top:3vh;
+}
+.books .content .list .items{
+    flex:100%;
+    display:flex;
+    flex-wrap:wrap;
+    padding:5vh 0;
+    border-bottom:1px solid rgb(231, 231, 231);
+}
+.books .content .list .items .img img{
+    width:100%;
+}
+.books .content .list .items .img{
+    flex:40%;
+    padding:0 2%;
+}
+.books .content .list .items .text{
+    text-align:left;
+    flex:40%;
+    padding:0 2%;
+}
+.books .content .list .items .text .head, .books .content .list .items .text .sub{
+    display:inline-block;
+}
+.books .content .list .items .text .icons{
+    display:flex;
+    flex-wrap:wrap;
+    margin-top:3vh;
+}
+.books .content .list .items .text .icons div{
+    flex:50%;
+}
+.books .content .list .items .text .icons .preview{
+    text-align:left;
+}
+.books .content .list .items .text .icons .download{
+    text-align:right;
+}
+.books .content .list .items .text .icons div img{
+    width:5vw;
+}
+.books .content .list .items .text .head{
+    font-size:5vw;
+    font-weight:bold;
+}
+.books .content .list .items .text .sub{
+    font-size:4vw;
+}
+.books .content .list .items .text p{
+    color:grey;
+}
+.books .two .content .column .books{
+    width:90%;
+    margin-bottom:1vh;
+}

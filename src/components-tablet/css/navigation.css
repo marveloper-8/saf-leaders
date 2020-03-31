@@ -1,0 +1,17 @@
+.navigation-tablet{
+    display:none;
+}
+
+/* tablet version */
+@media screen and (max-width:800px){
+    .navigation-tablet{
+        display:block;
+    }
+}
+
+/* mobile version */
+@media screen and (max-width:600px){
+    .navigation-tablet{
+        display:none;
+    }
+}
