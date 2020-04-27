@@ -1,5 +1,31 @@
 .navigation-desktop{
     display:block;
+    background:#E36C4C;
+    width:100vw;
+    height:100vw;
+    position:fixed;
+    top:0;
+    left:0;
+    text-align:center;
+    color:#fff;
+}
+.navigation-desktop .head{
+    font-size:4vw;
+}
+.navigation-desktop img{
+    width:35vw;
+}
+.navigation-desktop .text{
+    font-size:2vw;
+}
+.navigation-desktop .footer{
+    font-size:1vw;
+}
+
+.navigation-desktop .footer .link{
+    color:#305D6D;
+    font-weight:bold;
+    text-decoration:none;
 }
 
 /* desktop version */

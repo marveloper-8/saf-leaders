@@ -5,6 +5,7 @@ import account from '../icons/account-round.svg'
 function Account() {
     return (
         <div className="account">
+            <div className="mobile">
 
             <div className="content">
                 <h1>Login</h1>
@@ -15,11 +16,11 @@ function Account() {
 
                 <form className="form">
                     <div class="input">
-                        <input type="email" placeholder="Email..." />
+                        <input type="email" placeholder="Email..." disabled />
                     </div>
 
                     <div class="input">
-                        <input type="password" placeholder="Password..." />
+                        <input type="password" placeholder="Password..." disabled />
                     </div>
 
                     <button className="button">SIGN INTO AN ACCOUNT</button>
@@ -27,6 +28,7 @@ function Account() {
                 </form>
             </div>
 
+            </div>
         </div>
     )
 }

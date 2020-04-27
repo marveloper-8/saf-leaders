@@ -1,0 +1,21 @@
+.footer-mobile{
+    display:none;
+}
+
+/* mobile version */
+@media screen and (max-width:600px){
+    .footer-mobile{
+        display:block;
+        font-size:3.5vw;
+        color:#909090;
+        border-top:1px #909090 solid;
+        padding:2vh 0 12.5vh 0;
+        text-align:center;
+    }
+
+    .footer-mobile .link{
+        color:teal;
+        font-weight:bold;
+        text-decoration:none;
+    }
+}
