@@ -1,0 +1,15 @@
+
+.footer-desktop{
+    display:block;
+    font-size:1vw;
+    color:#909090;
+    border-top:1px #909090 solid;
+    padding:2vh 0 5vh 0;
+    text-align:center;
+}
+
+.footer-desktop .link{
+    color:teal;
+    font-weight:bold;
+    text-decoration:none;
+}

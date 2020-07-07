@@ -1,0 +1,63 @@
+
+.account .desktop{
+    display:block;
+}
+.account .desktop .content{
+    padding:12.5vh 30vw 7.5vh 30vw;
+    text-align:center;
+    font-size:.9vw;
+}
+.account .desktop .content h1{
+    font-size:2vw;
+}
+.account .desktop .content .icon{
+    margin:5vh 0;
+}
+.account .desktop .content .icon img{
+    width:70%;
+}
+.account .desktop .content .form button{
+    width:100%;
+    font-size:.9vw;
+    display:inline-block;
+    padding:1.5vh 0;
+    border-radius:5px;
+    margin-bottom:2vh;
+    font-weight:bold;
+}
+.account .desktop .content .form .button{
+    border:2px solid rgb(5, 112, 128);
+    outline:none;
+    background:rgb(5, 112, 128);
+    color:#fff;
+}
+.account .desktop .content .form .account-link{
+    color:rgb(5, 112, 128);
+    text-decoration:none;
+}
+.account .desktop .content .form .input{
+    border-radius:50px;
+    padding:2vh 2vw;
+    display:flex;
+    align-items:stretch;
+    background:rgb(231, 231, 231);
+    margin-bottom:3vh;
+}
+.account .desktop .content .form .input .icon-container{
+    flex-grow:1;
+}
+.account .desktop .content .form .input .search-container{
+    flex-grow:3;
+}
+.account .desktop .content .form .input .icons{
+    fill:rgb(5, 112, 128);
+    width:5vw;
+}
+.account .desktop .content .form .input input{
+    border:none;
+    background:none;
+    outline:none;
+    color:#000;
+    width:100%;
+    font-size:1vw;
+}

@@ -1,0 +1,137 @@
+
+.books .tablet{
+    display:block;
+}
+.books .tablet .content{
+    padding:5vh 5vw;
+    text-align:center;
+}
+.books .tablet .content .text h1, .books .tablet .content .text p{
+    text-align:left;
+}.books .tablet .content button{
+    width:100%;
+    font-size:4vw;
+}
+.books .tablet .content .text{
+    padding:4vh 0;
+}
+.books .tablet .content .search{
+    border-radius:50px;
+    background:rgb(231, 231, 231);
+    padding:1.5vh 5vw;
+    display:flex;
+    align-items:stretch;
+    margin-bottom:6vh;
+}
+.books .tablet .content .search .icon-container{
+    flex-grow:1;
+}
+.books .tablet .content .search .search-container{
+    flex-grow:18;
+}
+.books .tablet .content .search .icons{
+    fill:rgb(5, 112, 128);
+    width:2vw;
+}
+.books .tablet .content .search input{
+    border:none;
+    background:none;
+    outline:none;
+    color:#000;
+    width:100%;
+    font-size:2vw;
+}
+.books .tablet .content .title{
+    display:flex;
+    align-items:stretch;
+    margin:3vh 0;
+}
+.books .tablet .content .title .main{
+    flex-grow:8;
+    text-align:left;
+    font-size:3vw;
+    font-weight:bold;
+}
+.books .tablet .content .title .sub{
+    padding-top:1.5vh;
+    flex-grow:1;
+    font-size:2.5vw;
+    text-align:right;
+}
+
+.books .tablet .content .list-container{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+}
+.books .tablet .content .list{
+    padding-top:3vh;
+    text-align:center;
+    background:#fff;
+}
+.books .tablet .content .list .items{
+    margin:auto;
+    padding:5vh 0;
+    width:80%;
+    border-bottom:1px solid rgb(231, 231, 231);
+}
+.books .tablet .content .list .items .img img{
+    width:100%;
+}
+.books .tablet .content .list .items .img{
+    flex:40%;
+    padding:0 2%;
+}
+.books .tablet .content .list .items .text{
+    text-align:center;
+    flex:40%;
+    padding:0 2%;
+}
+.books .tablet .content .list .items .text .head, .books .tablet .content .list .items .text .sub{
+    display:inline-block;
+}
+.books .tablet .content .list .items .text .icons{
+    display:flex;
+    flex-wrap:wrap;
+    margin-top:3vh;
+}
+.books .tablet .content .list .items .text .icons div{
+    flex:50%;
+}
+.books .tablet .content .list .items .text .icons .preview{
+    text-align:center;
+}
+.books .tablet .content .list .items .text .download{
+    text-align:center;
+}
+.books .tablet .content .list .items .text .download button{
+    border:none;
+    outline:none;
+    color:#fff;
+    padding:1vh 0;
+    border-radius:5px;
+    font-size:1.5vw;
+}
+.books .tablet .content .list .items .text .download button.download{
+    background:teal;
+}
+.books .tablet .content .list .items .text .download button.mock-test{
+    background:rgb(0, 149, 255);
+    margin-top:1vh;
+}
+.books .tablet .content .list .items .text .head{
+    padding-top:2vh;
+    font-size:2vw;
+    font-weight:bold;
+}
+.books .tablet .content .list .items .text .sub{
+    font-size:1.5vw;
+}
+.books .tablet .content .list .items .text p{
+    color:grey;
+    text-align:center;
+    font-size:1.5vw;
+}
+.books .tablet .two .content .column .books{
+    width:90%;
+    margin-bottom:1vh;
+}

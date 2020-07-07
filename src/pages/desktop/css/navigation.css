@@ -1,0 +1,30 @@
+
+.navigation-desktop{
+    display:block;
+    display:flex;
+    align-items:stretch;
+    position:fixed;
+    top:0;
+    left:0;
+    width:30vw;
+    padding:2.5vh 35vw;
+    background:#fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height:auto;
+    font-size:1vw;
+    z-index:100;
+}
+.navigation-desktop .tabs{
+    flex-grow:1;
+    text-align:center;
+    text-decoration:none;
+}
+.navigation-desktop .tabs .links{
+    text-decoration:none;
+    color:#000;
+}
+
+/* icons */
+.navigation-desktop .tabs .icons{
+    height:5vw;
+}

@@ -1,0 +1,28 @@
+
+.navigation-mobile{
+    display:block;
+    display:flex;
+    align-items:stretch;
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:60vw;
+    padding:2vh 20vw;
+    background:#fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navigation-mobile .tabs{
+    flex-grow:1;
+    text-align:center;
+    text-decoration:none;
+    font-size:4vw;
+}
+.navigation-mobile .tabs .links{
+    text-decoration:none;
+    color:#000;
+}
+
+/* icons */
+.navigation-mobile .tabs .icons{
+    height:5vw;
+}

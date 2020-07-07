@@ -1,0 +1,137 @@
+.books .desktop{
+    padding-top:10vh;
+}
+
+.books .desktop .content{
+    padding:5vh 5vw;
+    text-align:center;
+}
+.books .desktop .content .text h1, .books .desktop .content .text p{
+    text-align:left;
+}.books .desktop .content button{
+    width:100%;
+    font-size:4vw;
+}
+.books .desktop .content .text{
+    padding:4vh 0;
+}
+.books .desktop .content .search{
+    border-radius:50px;
+    background:rgb(231, 231, 231);
+    padding:1.5vh 2vw;
+    display:grid;
+    grid-template-columns:1fr 25fr;
+    margin-bottom:6vh;
+}
+.books .desktop .content .search .icon-container{
+    /* flex-grow:1; */
+}
+.books .desktop .content .search .search-container{
+    /* flex-grow:28; */
+}
+.books .desktop .content .search .icons{
+    fill:rgb(5, 112, 128);
+    width:1vw;
+}
+.books .desktop .content .search input{
+    border:none;
+    background:none;
+    outline:none;
+    color:#000;
+    width:100%;
+    font-size:1vw;
+}
+.books .desktop .content .title{
+    display:flex;
+    align-items:stretch;
+    margin:3vh 0;
+}
+.books .desktop .content .title .main{
+    flex-grow:8;
+    text-align:left;
+    font-size:2vw;
+    font-weight:bold;
+}
+.books .desktop .content .title .sub{
+    padding-top:1.5vh;
+    flex-grow:1;
+    font-size:1.5vw;
+    text-align:right;
+}
+
+.books .desktop .content .list-container{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+}
+.books .desktop .content .list{
+    padding-top:3vh;
+    text-align:center;
+    background:#fff;
+}
+.books .desktop .content .list .items{
+    margin:auto;
+    padding:5vh 0;
+    width:80%;
+    border-bottom:1px solid rgb(231, 231, 231);
+}
+.books .desktop .content .list .items .img img{
+    width:100%;
+}
+.books .desktop .content .list .items .img{
+    flex:40%;
+    padding:0 2%;
+}
+.books .desktop .content .list .items .text{
+    text-align:center;
+    flex:40%;
+    padding:0 2%;
+}
+.books .desktop .content .list .items .text .head, .books .desktop .content .list .items .text .sub{
+    display:inline-block;
+}
+.books .desktop .content .list .items .text .icons{
+    display:flex;
+    flex-wrap:wrap;
+    margin-top:3vh;
+}
+.books .desktop .content .list .items .text .icons div{
+    flex:50%;
+}
+.books .desktop .content .list .items .text .icons .preview{
+    text-align:center;
+}
+.books .desktop .content .list .items .text .download{
+    text-align:center;
+}
+.books .desktop .content .list .items .text .download button{
+    border:none;
+    outline:none;
+    color:#fff;
+    padding:1vh 0;
+    border-radius:5px;
+    font-size:.75vw;
+}
+.books .desktop .content .list .items .text .download button.download{
+    background:teal;
+}
+.books .desktop .content .list .items .text .download button.mock-test{
+    background:rgb(0, 149, 255);
+    margin-top:1vh;
+}
+.books .desktop .content .list .items .text .head{
+    padding-top:2vh;
+    font-size:1.25vw;
+    font-weight:bold;
+}
+.books .desktop .content .list .items .text .sub{
+    font-size:1vw;
+}
+.books .desktop .content .list .items .text p{
+    color:grey;
+    text-align:center;
+    font-size:1vw;
+}
+.books .desktop .two .content .column .books{
+    width:90%;
+    margin-bottom:1vh;
+}

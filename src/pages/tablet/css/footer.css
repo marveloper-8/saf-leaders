@@ -1,0 +1,15 @@
+
+.footer-mobile{
+    display:block;
+    font-size:2vw;
+    color:#909090;
+    border-top:1px #909090 solid;
+    padding:2vh 0 15vh 0;
+    text-align:center;
+}
+
+.footer-mobile .link{
+    color:teal;
+    font-weight:bold;
+    text-decoration:none;
+}

@@ -8,8 +8,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js1/civic.jpg",
-      "file":"http://safleaders.org/files/class/js1/second-term/civic.pdf"
+      "image": "https://safleaders.org/images/subjects/js1/civic.jpg",
+      "file":"https://safleaders.org/files/class/js1/second-term/civic.pdf",
+      "mockTest": "https://bit.ly/CLP_CVE_JSS1"
   },
   {
       "id": 2,
@@ -20,8 +21,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js1/basic-science.jpg",
-      "file":"http://safleaders.org/files/class/js1/second-term/basic-science.pdf"
+      "image": "https://safleaders.org/images/subjects/js1/basic-science.jpg",
+      "file":"https://safleaders.org/files/class/js1/second-term/basic-science.pdf",
+      "mockTest": "https://bit.ly/CLP_BSC_JSS1"
   },
   {
       "id": 3,
@@ -32,8 +34,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js1/agric.jpg",
-      "file":"http://safleaders.org/files/class/js1/second-term/agric.pdf"
+      "image": "https://safleaders.org/images/subjects/js1/agric.jpg",
+      "file":"https://safleaders.org/files/class/js1/second-term/agric.pdf",
+      "mockTest": "https://bit.ly/CLP_AGR_JSS1"
   },
   {
       "id": 4,
@@ -44,8 +47,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js1/english.jpg",
-      "file":"http://safleaders.org/files/class/js1/second-term/english.pdf"
+      "image": "https://safleaders.org/images/subjects/js1/english.jpg",
+      "file":"https://safleaders.org/files/class/js1/second-term/english.pdf",
+      "mockTest":"https://bit.ly/CLP_ENG_JSS1"
   },
   {
       "id": 5,
@@ -56,8 +60,8 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js1/maths.jpg",
-      "file":"http://safleaders.org/files/class/js1/second-term/maths.pdf"
+      "image": "https://safleaders.org/images/subjects/js1/maths.jpg",
+      "file":"https://safleaders.org/files/class/js1/second-term/maths.pdf"
   },
   {
       "id": 6,
@@ -68,8 +72,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js2/agric.jpg",
-      "file":"http://safleaders.org/files/class/js2/third-term/agric.pdf"
+      "image": "https://safleaders.org/images/subjects/js2/agric.jpg",
+      "file":"https://safleaders.org/files/class/js2/third-term/agric.pdf",
+      "mockTest": "https://bit.ly/CLP_AGR_JSS2"
   },
   {
       "id": 7,
@@ -80,8 +85,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js2/basic-science.jpg",
-      "file":"http://safleaders.org/files/class/js2/third-term/basic-science.pdf"
+      "image": "https://safleaders.org/images/subjects/js2/basic-science.jpg",
+      "file":"https://safleaders.org/files/class/js2/third-term/basic-science.pdf",
+      "mockTest": "https://bit.ly/CLP_BSC_JSS2"
   },
   {
       "id": 8,
@@ -92,8 +98,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js2/civic.jpg",
-      "file":"http://safleaders.org/files/class/js2/third-term/civic.pdf"
+      "image": "https://safleaders.org/images/subjects/js2/civic.jpg",
+      "file":"https://safleaders.org/files/class/js2/third-term/civic.pdf",
+      "mockTest": "https://bit.ly/CLP_CVE_JSS2"
   },
   {
       "id": 9,
@@ -104,8 +111,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js2/english.jpg",
-      "file":"http://safleaders.org/files/class/js2/third-term/english.pdf"
+      "image": "https://safleaders.org/images/subjects/js2/english.jpg",
+      "file":"https://safleaders.org/files/class/js2/third-term/english.pdf",
+      "mockTest": "https://bit.ly/CLP_ENL_JSS2"
   },
   {
       "id": 10,
@@ -116,8 +124,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js2/english.jpg",
-      "file":"http://safleaders.org/files/class/js2/third-term/english-2.pdf"
+      "image": "https://safleaders.org/images/subjects/js2/english.jpg",
+      "file":"https://safleaders.org/files/class/js2/third-term/english-2.pdf",
+      "mockTest": "https://bit.ly/CLP_ENL_JSS2"
   },
   {
       "id": 11,
@@ -128,8 +137,8 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js2/maths.jpg",
-      "file":"http://safleaders.org/files/class/js2/third-term/maths.pdf"
+      "image": "https://safleaders.org/images/subjects/js2/maths.jpg",
+      "file":"https://safleaders.org/files/class/js2/third-term/maths.pdf"
   },
   {
       "id": 12,
@@ -140,8 +149,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js3/agric.jpg",
-      "file":"http://safleaders.org/files/class/js3/third-term/agric.pdf"
+      "image": "https://safleaders.org/images/subjects/js3/agric.jpg",
+      "file":"https://safleaders.org/files/class/js3/third-term/agric.pdf",
+      "mockTest": "https://bit.ly/CLP_AGR_JSS3"
   },
   {
       "id": 13,
@@ -152,8 +162,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js3/basic-science.jpg",
-      "file":"http://safleaders.org/files/class/js3/third-term/basic-science.pdf"
+      "image": "https://safleaders.org/images/subjects/js3/basic-science.jpg",
+      "file":"https://safleaders.org/files/class/js3/third-term/basic-science.pdf",
+      "mockTest": "https://bit.ly/CLP_BSC_JSS3"
   },
   {
       "id": 14,
@@ -164,8 +175,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js3/civic.jpg",
-      "file":"http://safleaders.org/files/class/js3/third-term/civic.pdf"
+      "image": "https://safleaders.org/images/subjects/js3/civic.jpg",
+      "file":"https://safleaders.org/files/class/js3/third-term/civic.pdf",
+      "mockTest": "https://bit.ly/CLP_CVE_JSS3"
   },
   {
       "id": 15,
@@ -176,8 +188,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js3/english.jpg",
-      "file":"http://safleaders.org/files/class/js3/third-term/english.pdf"
+      "image": "https://safleaders.org/images/subjects/js3/english.jpg",
+      "file":"https://safleaders.org/files/class/js3/third-term/english.pdf",
+      "mockTest": "https://bit.ly/CLP_ENG_JSS3"
   },
   {
       "id": 16,
@@ -188,8 +201,8 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/js3/maths.jpg",
-      "file":"http://safleaders.org/files/class/js3/third-term/maths.pdf"
+      "image": "https://safleaders.org/images/subjects/js3/maths.jpg",
+      "file":"https://safleaders.org/files/class/js3/third-term/maths.pdf"
   },
   {
       "id": 17,
@@ -200,8 +213,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss1/agric.jpg",
-      "file":"http://safleaders.org/files/class/ss1/third-term/agric.pdf"
+      "image": "https://safleaders.org/images/subjects/ss1/agric.jpg",
+      "file":"https://safleaders.org/files/class/ss1/third-term/agric.pdf",
+      "mockTest": "https://bit.ly/CLP_AGR_SS1"
   },
   {
       "id": 18,
@@ -212,8 +226,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss1/biology.jpg",
-      "file":"http://safleaders.org/files/class/ss1/third-term/biology.pdf"
+      "image": "https://safleaders.org/images/subjects/ss1/biology.jpg",
+      "file":"https://safleaders.org/files/class/ss1/third-term/biology.pdf",
+      "mockTest":"https://bit.ly/CLP_BIO_SS1"
   },
   {
       "id": 19,
@@ -224,8 +239,8 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss1/chemistry.jpg",
-      "file":"http://safleaders.org/files/class/ss1/third-term/chemistry.pdf"
+      "image": "https://safleaders.org/images/subjects/ss1/chemistry.jpg",
+      "file":"https://safleaders.org/files/class/ss1/third-term/chemistry.pdf"
   },
   {
       "id": 20,
@@ -236,8 +251,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss1/commerce.jpg",
-      "file":"http://safleaders.org/files/class/ss1/third-term/commerce.pdf"
+      "image": "https://safleaders.org/images/subjects/ss1/commerce.jpg",
+      "file":"https://safleaders.org/files/class/ss1/third-term/commerce.pdf",
+      "mockTest":"https://bit.ly/CLP_COMM_SS1"
   },
   {
       "id": 21,
@@ -248,8 +264,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss1/economics.jpg",
-      "file":"http://safleaders.org/files/class/ss1/third-term/economics.pdf"
+      "image": "https://safleaders.org/images/subjects/ss1/economics.jpg",
+      "file":"https://safleaders.org/files/class/ss1/third-term/economics.pdf",
+      "mockTest":"https://bit.ly/CLP_ECO_SS1"
   },
   {
       "id": 22,
@@ -260,8 +277,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss1/english.jpg",
-      "file":"http://safleaders.org/files/class/ss1/third-term/english.pdf"
+      "image": "https://safleaders.org/images/subjects/ss1/english.jpg",
+      "file":"https://safleaders.org/files/class/ss1/third-term/english.pdf",
+      "mockTest":"https://bit.ly/CLP_ENL_SS1"
   },
   {
       "id": 23,
@@ -272,8 +290,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss2/agric.jpg",
-      "file":"http://safleaders.org/files/class/ss2/third-term/agric.pdf"
+      "image": "https://safleaders.org/images/subjects/ss2/agric.jpg",
+      "file":"https://safleaders.org/files/class/ss2/third-term/agric.pdf",
+      "mockTest":"https://bit.ly/CLP_AGR_SS2"
   },
   {
       "id": 24,
@@ -284,8 +303,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss2/biology.jpg",
-      "file":"http://safleaders.org/files/class/ss2/third-term/biology.pdf"
+      "image": "https://safleaders.org/images/subjects/ss2/biology.jpg",
+      "file":"https://safleaders.org/files/class/ss2/third-term/biology.pdf",
+      "mockTest":"https://bit.ly/CLP_BIO_SS2"
   },
   {
       "id": 25,
@@ -296,8 +316,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss2/commerce.jpg",
-      "file":"http://safleaders.org/files/class/ss2/third-term/commerce.pdf"
+      "image": "https://safleaders.org/images/subjects/ss2/commerce.jpg",
+      "file":"https://safleaders.org/files/class/ss2/third-term/commerce.pdf",
+      "mockTest":"https://bit.ly/CLP_COMM_SS2"
   },
   {
       "id": 26,
@@ -308,8 +329,9 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss2/economics.jpg",
-      "file":"http://safleaders.org/files/class/ss2/third-term/economics.pdf"
+      "image": "https://safleaders.org/images/subjects/ss2/economics.jpg",
+      "file":"https://safleaders.org/files/class/ss2/third-term/economics.pdf",
+      "mockTest":"https://bit.ly/CLP_ECO_SS2"
   },
   {
       "id": 27,
@@ -320,7 +342,21 @@
       "status":"publish",
       "type":"post",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "image": "http://safleaders.org/images/subjects/ss2/english.jpg",
-      "file":"http://safleaders.org/files/class/ss2/third-term/english.pdf"
+      "image": "https://safleaders.org/images/subjects/ss2/english.jpg",
+      "file":"https://safleaders.org/files/class/ss2/third-term/english.pdf",
+      "mockTest":"https://bit.ly/CLP_ENL_SS2"
+  },
+  {
+      "id": 28,
+      "subject": "Adventures of Muna",
+      "alt": "Adventures of Muna",
+      "class": "General",
+      "term": "None",
+      "status":"publish",
+      "type":"post",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "https://safleaders.org/images/adventures-of-muna.jpeg",
+      "file":"https://safleaders.org/files/adventures-of-muna.pdf",
+      "mockTest": "https://bit.ly/CLP_Muna"
   }
 ]
